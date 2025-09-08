@@ -1,0 +1,6 @@
+说明
+运行后提供一个 /update.json 接口返回更新信息
+
+2、运行
+pip install flask
+python server.py
