@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- 允许访问缓存目录（XUpdate 默认下载目录） -->
+    <external-cache-path
+        name="xupdate_cache"
+        path="xupdate/" />
+
+    <!-- 允许访问 files 目录（如果你改过保存路径用到这里） -->
+    <external-files-path
+        name="xupdate_files"
+        path="xupdate/" />
+
+    <!-- 如果想更宽松，可以允许整个 cache 或 files -->
+    <!-- <external-cache-path name="cache" path="." /> -->
+    <!-- <external-files-path name="files" path="." /> -->
+</paths>
