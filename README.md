@@ -22,11 +22,11 @@
 
 ## 三 示例效果
 
-1、updateforce
+### 3.1 updateforce
 
 ![][1]
 
-2、XUpdateDemo
+### 3.2 XUpdateDemo
 
 ![][2]
 
